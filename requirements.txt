@@ -1,0 +1,2 @@
+# No third-party dependencies.
+# Built entirely on the Python 3.9+ standard library.

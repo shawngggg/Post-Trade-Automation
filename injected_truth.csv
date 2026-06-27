@@ -1,0 +1,601 @@
+trade_id,defect,field,detail
+TRD-201823,format_buy_sell,buy_sell,'sell'
+TRD-200228,format_buy_sell,buy_sell,'Sell '
+TRD-203220,format_buy_sell,buy_sell,' Sell '
+TRD-203202,format_buy_sell,buy_sell,'Buy '
+TRD-202729,format_buy_sell,buy_sell,' Sell '
+TRD-202784,format_buy_sell,buy_sell,'SELL'
+TRD-202938,format_buy_sell,buy_sell,'SELL'
+TRD-203103,format_buy_sell,buy_sell,'sell'
+TRD-203693,format_buy_sell,buy_sell,' Buy '
+TRD-202798,format_buy_sell,buy_sell,'BUY'
+TRD-202588,format_buy_sell,buy_sell,'buy'
+TRD-202476,format_buy_sell,buy_sell,' Buy '
+TRD-203742,format_buy_sell,buy_sell,'sell'
+TRD-202951,format_buy_sell,buy_sell,'SELL'
+TRD-201198,format_buy_sell,buy_sell,'buy'
+TRD-201136,format_buy_sell,buy_sell,' Sell '
+TRD-201596,format_buy_sell,buy_sell,'Buy '
+TRD-203854,format_buy_sell,buy_sell,'BUY'
+TRD-202812,format_buy_sell,buy_sell,' Buy '
+TRD-202142,format_buy_sell,buy_sell,' Buy '
+TRD-200668,format_buy_sell,buy_sell,'buy'
+TRD-200747,format_buy_sell,buy_sell,'BUY'
+TRD-201721,format_buy_sell,buy_sell,'Buy '
+TRD-203634,format_buy_sell,buy_sell,'Buy '
+TRD-203661,format_buy_sell,buy_sell,'sell'
+TRD-201690,format_buy_sell,buy_sell,'SELL'
+TRD-203618,format_buy_sell,buy_sell,'Sell '
+TRD-200371,format_buy_sell,buy_sell,'SELL'
+TRD-203265,format_buy_sell,buy_sell,'buy'
+TRD-200259,format_buy_sell,buy_sell,'SELL'
+TRD-203282,format_buy_sell,buy_sell,'BUY'
+TRD-201218,format_buy_sell,buy_sell,'BUY'
+TRD-201676,format_buy_sell,buy_sell,'sell'
+TRD-202941,format_buy_sell,buy_sell,'sell'
+TRD-201403,format_buy_sell,buy_sell,'buy'
+TRD-203927,format_buy_sell,buy_sell,'Sell '
+TRD-203616,format_buy_sell,buy_sell,' Sell '
+TRD-202752,format_buy_sell,buy_sell,'SELL'
+TRD-202433,format_buy_sell,buy_sell,' Sell '
+TRD-203655,format_buy_sell,buy_sell,'BUY'
+TRD-200451,format_buy_sell,buy_sell,'BUY'
+TRD-200296,format_buy_sell,buy_sell,'BUY'
+TRD-203085,format_buy_sell,buy_sell,'buy'
+TRD-200361,format_buy_sell,buy_sell,'Buy '
+TRD-200114,format_buy_sell,buy_sell,'sell'
+TRD-203869,format_buy_sell,buy_sell,'SELL'
+TRD-203568,format_buy_sell,buy_sell,' Sell '
+TRD-203644,format_buy_sell,buy_sell,'SELL'
+TRD-200505,format_buy_sell,buy_sell,'BUY'
+TRD-202724,format_buy_sell,buy_sell,'Sell '
+TRD-203401,format_buy_sell,buy_sell,'SELL'
+TRD-202054,format_buy_sell,buy_sell,'sell'
+TRD-201887,format_buy_sell,buy_sell,'Buy '
+TRD-203434,format_buy_sell,buy_sell,'Sell '
+TRD-201243,format_buy_sell,buy_sell,'Sell '
+TRD-202931,format_buy_sell,buy_sell,'SELL'
+TRD-202308,format_buy_sell,buy_sell,'Buy '
+TRD-200887,format_buy_sell,buy_sell,'Sell '
+TRD-200598,format_buy_sell,buy_sell,'sell'
+TRD-201969,format_buy_sell,buy_sell,' Sell '
+TRD-203199,format_buy_sell,buy_sell,'sell'
+TRD-200698,format_buy_sell,buy_sell,'sell'
+TRD-200344,format_buy_sell,buy_sell,' Sell '
+TRD-203479,format_buy_sell,buy_sell,' Sell '
+TRD-203627,format_buy_sell,buy_sell,'Sell '
+TRD-203606,format_buy_sell,buy_sell,'sell'
+TRD-200426,format_buy_sell,buy_sell,'SELL'
+TRD-202607,format_buy_sell,buy_sell,'sell'
+TRD-201416,format_buy_sell,buy_sell,' Buy '
+TRD-203868,format_buy_sell,buy_sell,'Sell '
+TRD-202527,format_buy_sell,buy_sell,'Buy '
+TRD-202313,format_buy_sell,buy_sell,'Buy '
+TRD-203957,format_buy_sell,buy_sell,'SELL'
+TRD-202524,format_buy_sell,buy_sell,'BUY'
+TRD-200430,format_buy_sell,buy_sell,' Sell '
+TRD-202304,format_buy_sell,buy_sell,'Sell '
+TRD-202759,format_buy_sell,buy_sell,'sell'
+TRD-201248,format_buy_sell,buy_sell,'Buy '
+TRD-202215,format_buy_sell,buy_sell,'buy'
+TRD-203884,format_buy_sell,buy_sell,'sell'
+TRD-203245,format_buy_sell,buy_sell,'BUY'
+TRD-203283,format_buy_sell,buy_sell,'Sell '
+TRD-202368,format_buy_sell,buy_sell,' Buy '
+TRD-200545,format_buy_sell,buy_sell,'Sell '
+TRD-202243,format_buy_sell,buy_sell,'Buy '
+TRD-202879,format_buy_sell,buy_sell,' Sell '
+TRD-201188,format_buy_sell,buy_sell,' Sell '
+TRD-202910,format_buy_sell,buy_sell,'Buy '
+TRD-203139,format_buy_sell,buy_sell,' Buy '
+TRD-200537,format_buy_sell,buy_sell,'buy'
+TRD-203840,format_buy_sell,buy_sell,'SELL'
+TRD-200059,format_buy_sell,buy_sell,' Buy '
+TRD-201668,format_buy_sell,buy_sell,'sell'
+TRD-201875,format_buy_sell,buy_sell,'BUY'
+TRD-203262,format_buy_sell,buy_sell,' Sell '
+TRD-203313,format_buy_sell,buy_sell,'BUY'
+TRD-202690,format_buy_sell,buy_sell,'Sell '
+TRD-201256,format_buy_sell,buy_sell,' Sell '
+TRD-202336,format_buy_sell,buy_sell,'buy'
+TRD-200429,format_buy_sell,buy_sell,'sell'
+TRD-203819,format_buy_sell,buy_sell,'BUY'
+TRD-202504,format_buy_sell,buy_sell,'buy'
+TRD-201802,format_buy_sell,buy_sell,'sell'
+TRD-200745,format_buy_sell,buy_sell,' Sell '
+TRD-201298,format_buy_sell,buy_sell,'SELL'
+TRD-202377,format_buy_sell,buy_sell,'sell'
+TRD-200194,format_buy_sell,buy_sell,'Buy '
+TRD-202929,format_buy_sell,buy_sell,' Buy '
+TRD-200112,format_buy_sell,buy_sell,'buy'
+TRD-201287,format_buy_sell,buy_sell,'sell'
+TRD-201221,format_buy_sell,buy_sell,'sell'
+TRD-203180,format_buy_sell,buy_sell,' Sell '
+TRD-201723,format_buy_sell,buy_sell,' Buy '
+TRD-200193,format_buy_sell,buy_sell,'BUY'
+TRD-202866,format_buy_sell,buy_sell,' Buy '
+TRD-201446,format_buy_sell,buy_sell,'buy'
+TRD-203481,format_buy_sell,buy_sell,'sell'
+TRD-201603,format_buy_sell,buy_sell,'Buy '
+TRD-202868,format_buy_sell,buy_sell,' Sell '
+TRD-201844,format_buy_sell,buy_sell,'sell'
+TRD-202689,format_currency,currency,'usd'
+TRD-200670,format_currency,currency,' USD'
+TRD-203737,format_currency,currency,'Usd'
+TRD-202466,format_currency,currency,'Usd'
+TRD-202767,format_currency,currency,'Usd'
+TRD-200149,format_currency,currency,'usd'
+TRD-202953,format_currency,currency,' USD'
+TRD-203140,format_currency,currency,'Usd'
+TRD-201750,format_currency,currency,' USD'
+TRD-201311,format_currency,currency,'usd'
+TRD-200752,format_currency,currency,'usd'
+TRD-203994,format_currency,currency,'Usd'
+TRD-201780,format_currency,currency,'Usd'
+TRD-200178,format_currency,currency,' USD'
+TRD-203989,format_currency,currency,'usd'
+TRD-202197,format_currency,currency,' USD'
+TRD-203288,format_currency,currency,'usd'
+TRD-203147,format_currency,currency,' USD'
+TRD-203316,format_currency,currency,'usd'
+TRD-201493,format_currency,currency,'Usd'
+TRD-201720,format_currency,currency,'usd'
+TRD-200247,format_currency,currency,'usd'
+TRD-200824,format_currency,currency,'Usd'
+TRD-203672,format_currency,currency,' USD'
+TRD-203488,format_currency,currency,' USD'
+TRD-200143,format_currency,currency,'usd'
+TRD-201760,format_currency,currency,'Usd'
+TRD-202888,format_currency,currency,' USD'
+TRD-203622,format_currency,currency,'Usd'
+TRD-202564,format_currency,currency,'Usd'
+TRD-200861,format_currency,currency,' USD'
+TRD-202136,format_currency,currency,'usd'
+TRD-200093,format_currency,currency,'Usd'
+TRD-201099,format_currency,currency,'Usd'
+TRD-201424,format_currency,currency,'usd'
+TRD-200459,format_currency,currency,'usd'
+TRD-202435,format_currency,currency,' USD'
+TRD-201004,format_currency,currency,'usd'
+TRD-201337,format_currency,currency,' USD'
+TRD-202995,format_currency,currency,' USD'
+TRD-201691,format_currency,currency,'Usd'
+TRD-201366,format_currency,currency,'usd'
+TRD-201610,format_currency,currency,'usd'
+TRD-202231,format_currency,currency,'Usd'
+TRD-202994,format_currency,currency,'Usd'
+TRD-201728,format_currency,currency,'usd'
+TRD-200572,format_currency,currency,' USD'
+TRD-202180,format_currency,currency,'usd'
+TRD-202863,format_currency,currency,'usd'
+TRD-203014,format_currency,currency,'Usd'
+TRD-200945,format_currency,currency,' USD'
+TRD-200113,format_currency,currency,'Usd'
+TRD-201068,format_currency,currency,'usd'
+TRD-200879,format_currency,currency,' USD'
+TRD-203726,format_currency,currency,'Usd'
+TRD-200570,format_currency,currency,' USD'
+TRD-201457,format_currency,currency,' USD'
+TRD-201500,format_currency,currency,' USD'
+TRD-200329,format_currency,currency,'usd'
+TRD-200891,format_currency,currency,'Usd'
+TRD-203155,format_currency,currency,'Usd'
+TRD-202257,format_currency,currency,'usd'
+TRD-203290,format_currency,currency,' USD'
+TRD-201740,format_currency,currency,'Usd'
+TRD-201037,format_currency,currency,'usd'
+TRD-202730,format_currency,currency,'Usd'
+TRD-200440,format_currency,currency,' USD'
+TRD-200636,format_currency,currency,'Usd'
+TRD-202860,format_currency,currency,' USD'
+TRD-203115,format_currency,currency,' USD'
+TRD-202727,format_currency,currency,'usd'
+TRD-202558,format_currency,currency,' USD'
+TRD-202522,format_currency,currency,'usd'
+TRD-202562,format_currency,currency,'Usd'
+TRD-201787,format_currency,currency,' USD'
+TRD-202891,format_currency,currency,'Usd'
+TRD-202001,format_currency,currency,' USD'
+TRD-202074,format_currency,currency,'usd'
+TRD-203882,format_currency,currency,'Usd'
+TRD-203284,format_currency,currency,'Usd'
+TRD-201140,format_currency,currency,'Usd'
+TRD-201558,format_currency,currency,' USD'
+TRD-201286,format_currency,currency,' USD'
+TRD-200387,format_currency,currency,' USD'
+TRD-203323,format_currency,currency,' USD'
+TRD-201515,format_currency,currency,'usd'
+TRD-202637,format_currency,currency,' USD'
+TRD-202873,format_currency,currency,'usd'
+TRD-203387,format_currency,currency,' USD'
+TRD-201746,format_currency,currency,'Usd'
+TRD-202656,format_product,product,'mutual fund'
+TRD-201943,format_product,product,'Fixed Income '
+TRD-200563,format_product,product,'EQUITY'
+TRD-203106,format_product,product,'Option '
+TRD-202881,format_product,product,'mutual fund'
+TRD-200326,format_product,product,'EQUITY'
+TRD-202037,format_product,product,'mutual fund'
+TRD-203817,format_product,product,'Option '
+TRD-203285,format_product,product,'OPTION'
+TRD-200999,format_product,product,'Equity '
+TRD-202714,format_product,product,'Mutual Fund '
+TRD-200881,format_product,product,'Equity '
+TRD-201448,format_product,product,'Fixed Income '
+TRD-202941,format_product,product,'MUTUAL FUND'
+TRD-203283,format_product,product,'OPTION'
+TRD-202048,format_product,product,'Mutual Fund '
+TRD-200844,format_product,product,'Equity '
+TRD-200759,format_product,product,'Equity '
+TRD-203744,format_product,product,'OPTION'
+TRD-203618,format_product,product,'OPTION'
+TRD-201821,format_product,product,'FIXED INCOME'
+TRD-202951,format_product,product,'MUTUAL FUND'
+TRD-203835,format_product,product,'option'
+TRD-202396,format_product,product,'MUTUAL FUND'
+TRD-203609,format_product,product,'option'
+TRD-200041,format_product,product,'EQUITY'
+TRD-203990,format_product,product,'OPTION'
+TRD-202342,format_product,product,'mutual fund'
+TRD-200463,format_product,product,'EQUITY'
+TRD-202853,format_product,product,'Mutual Fund '
+TRD-200986,format_product,product,'EQUITY'
+TRD-202107,format_product,product,'MUTUAL FUND'
+TRD-200037,format_product,product,'EQUITY'
+TRD-200256,format_product,product,'equity'
+TRD-202577,format_product,product,'mutual fund'
+TRD-201238,format_product,product,'Fixed Income '
+TRD-200526,format_product,product,'equity'
+TRD-202264,format_product,product,'Mutual Fund '
+TRD-201007,format_product,product,'Fixed Income '
+TRD-202469,format_product,product,'MUTUAL FUND'
+TRD-202485,format_product,product,'MUTUAL FUND'
+TRD-201978,format_product,product,'fixed income'
+TRD-201273,format_product,product,'fixed income'
+TRD-202187,format_product,product,'mutual fund'
+TRD-202867,format_product,product,'MUTUAL FUND'
+TRD-202354,format_product,product,'Mutual Fund '
+TRD-203308,format_product,product,'option'
+TRD-200996,format_product,product,'Equity '
+TRD-201083,format_product,product,'FIXED INCOME'
+TRD-201578,format_product,product,'fixed income'
+TRD-203156,format_product,product,'OPTION'
+TRD-203146,format_product,product,'option'
+TRD-202774,format_product,product,'mutual fund'
+TRD-203974,format_product,product,'option'
+TRD-201905,format_product,product,'fixed income'
+TRD-203833,format_product,product,'Option '
+TRD-200806,format_product,product,'equity'
+TRD-203608,format_product,product,'OPTION'
+TRD-202614,format_product,product,'mutual fund'
+TRD-200374,format_product,product,'EQUITY'
+TRD-202482,format_product,product,'MUTUAL FUND'
+TRD-203852,format_product,product,'OPTION'
+TRD-200069,format_product,product,'EQUITY'
+TRD-202152,format_product,product,'MUTUAL FUND'
+TRD-201402,format_product,product,'Fixed Income '
+TRD-200219,format_product,product,'Equity '
+TRD-201350,format_product,product,'fixed income'
+TRD-200361,format_product,product,'EQUITY'
+TRD-201465,format_product,product,'fixed income'
+TRD-202086,format_product,product,'mutual fund'
+TRD-203923,format_product,product,'option'
+TRD-203197,format_product,product,'Option '
+TRD-201432,format_product,product,'FIXED INCOME'
+TRD-202682,format_product,product,'mutual fund'
+TRD-201658,format_product,product,'FIXED INCOME'
+TRD-201055,format_product,product,'fixed income'
+TRD-202672,format_product,product,'mutual fund'
+TRD-203519,format_product,product,'option'
+TRD-202738,format_product,product,'mutual fund'
+TRD-202935,format_product,product,'mutual fund'
+TRD-202511,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201982,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202256,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201625,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201662,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202954,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203475,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202999,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201452,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203614,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202053,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200448,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203938,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201869,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203839,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202389,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203532,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200602,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201487,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203846,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200570,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202728,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201349,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201737,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203593,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203467,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203965,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201754,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200879,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201366,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202754,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201966,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200266,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201104,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200184,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203673,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201257,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201469,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202555,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200331,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203170,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201664,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201174,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202449,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200798,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201391,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202892,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202428,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203869,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203444,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203153,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201330,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203470,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200406,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200164,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203689,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200676,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200890,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202057,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200284,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200943,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203039,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201990,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203016,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203498,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200598,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202820,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202497,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202163,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202005,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201619,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200231,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202541,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201653,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202614,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200073,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202314,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202998,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203160,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202602,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203563,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203606,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201054,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203445,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200404,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203728,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201907,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-202276,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200202,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203221,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203107,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203381,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203632,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203825,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203976,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-200925,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203753,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203524,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201480,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-203201,missing_settle_date,settle_date,blanked (derivable T+1)
+TRD-201922,amount_rounding,settlement_amount,drift -0.0078
+TRD-202366,amount_rounding,settlement_amount,drift -0.0030
+TRD-201735,amount_rounding,settlement_amount,drift -0.0034
+TRD-203812,amount_rounding,settlement_amount,drift +0.0001
+TRD-201521,amount_rounding,settlement_amount,drift -0.0088
+TRD-203222,amount_rounding,settlement_amount,drift -0.0072
+TRD-200117,amount_rounding,settlement_amount,drift +0.0044
+TRD-202854,amount_rounding,settlement_amount,drift +0.0011
+TRD-200257,amount_rounding,settlement_amount,drift -0.0079
+TRD-200671,amount_rounding,settlement_amount,drift +0.0002
+TRD-203087,amount_rounding,settlement_amount,drift +0.0024
+TRD-200018,amount_rounding,settlement_amount,drift -0.0023
+TRD-202503,amount_rounding,settlement_amount,drift -0.0009
+TRD-200356,amount_rounding,settlement_amount,drift -0.0030
+TRD-200206,amount_rounding,settlement_amount,drift +0.0020
+TRD-201058,amount_rounding,settlement_amount,drift -0.0028
+TRD-203989,amount_rounding,settlement_amount,drift -0.0031
+TRD-201553,amount_rounding,settlement_amount,drift -0.0024
+TRD-200186,amount_rounding,settlement_amount,drift +0.0054
+TRD-201879,amount_rounding,settlement_amount,drift +0.0015
+TRD-203972,amount_rounding,settlement_amount,drift +0.0069
+TRD-203914,amount_rounding,settlement_amount,drift +0.0047
+TRD-203993,amount_rounding,settlement_amount,drift -0.0012
+TRD-202845,amount_rounding,settlement_amount,drift +0.0003
+TRD-203687,amount_rounding,settlement_amount,drift +0.0030
+TRD-200721,amount_rounding,settlement_amount,drift +0.0009
+TRD-202842,amount_rounding,settlement_amount,drift +0.0045
+TRD-202648,amount_rounding,settlement_amount,drift +0.0001
+TRD-200291,amount_rounding,settlement_amount,drift +0.0090
+TRD-200350,amount_rounding,settlement_amount,drift -0.0062
+TRD-202355,amount_rounding,settlement_amount,drift +0.0058
+TRD-200679,amount_rounding,settlement_amount,drift -0.0031
+TRD-203339,amount_rounding,settlement_amount,drift +0.0039
+TRD-200541,amount_rounding,settlement_amount,drift +0.0042
+TRD-201445,amount_rounding,settlement_amount,drift +0.0024
+TRD-200501,amount_rounding,settlement_amount,drift -0.0064
+TRD-201389,amount_rounding,settlement_amount,drift +0.0047
+TRD-202016,amount_rounding,settlement_amount,drift -0.0055
+TRD-200494,amount_rounding,settlement_amount,drift +0.0021
+TRD-202748,amount_rounding,settlement_amount,drift -0.0040
+TRD-200520,amount_rounding,settlement_amount,drift -0.0050
+TRD-200927,amount_rounding,settlement_amount,drift -0.0082
+TRD-201509,amount_rounding,settlement_amount,drift -0.0088
+TRD-202740,amount_rounding,settlement_amount,drift -0.0066
+TRD-203559,amount_rounding,settlement_amount,drift -0.0015
+TRD-202050,amount_rounding,settlement_amount,drift -0.0055
+TRD-200169,amount_rounding,settlement_amount,drift +0.0054
+TRD-203786,amount_rounding,settlement_amount,drift +0.0069
+TRD-201978,amount_rounding,settlement_amount,drift -0.0013
+TRD-200202,amount_rounding,settlement_amount,drift +0.0012
+TRD-203692,amount_rounding,settlement_amount,drift +0.0088
+TRD-203529,amount_rounding,settlement_amount,drift -0.0052
+TRD-203016,amount_rounding,settlement_amount,drift +0.0088
+TRD-202514,amount_rounding,settlement_amount,drift -0.0061
+TRD-201689,amount_rounding,settlement_amount,drift -0.0083
+TRD-203084,amount_rounding,settlement_amount,drift +0.0041
+TRD-201057,amount_rounding,settlement_amount,drift +0.0052
+TRD-201115,amount_rounding,settlement_amount,drift -0.0051
+TRD-201808,amount_rounding,settlement_amount,drift +0.0075
+TRD-202910,amount_rounding,settlement_amount,drift -0.0060
+TRD-202680,amount_rounding,settlement_amount,drift +0.0031
+TRD-201054,amount_rounding,settlement_amount,drift -0.0069
+TRD-200379,amount_rounding,settlement_amount,drift +0.0030
+TRD-200314,amount_rounding,settlement_amount,drift +0.0056
+TRD-203622,amount_rounding,settlement_amount,drift -0.0028
+TRD-200447,amount_rounding,settlement_amount,drift +0.0041
+TRD-203334,amount_rounding,settlement_amount,drift -0.0023
+TRD-203524,amount_rounding,settlement_amount,drift -0.0006
+TRD-203045,amount_rounding,settlement_amount,drift +0.0082
+TRD-200649,amount_rounding,settlement_amount,drift +0.0014
+TRD-200147,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-202845,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-202198,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-200660,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-200879,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-201129,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-201902,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-201212,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-200608,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-202140,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-201299,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-200384,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-200041,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-200118,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-202293,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-203236,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-201056,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-200554,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-200653,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-201058,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-200279,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-201948,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-201603,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-200388,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-201147,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-202260,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-202901,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-202898,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-202967,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-200498,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-201440,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-202001,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-203984,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-200931,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-202209,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-203313,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-203402,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-203505,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-201923,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-201485,amount_break,settlement_amount,material mismatch vs qty*price
+TRD-201376,missing_fail_reason,fail_reason,blanked
+TRD-203294,missing_fail_reason,fail_reason,blanked
+TRD-203734,missing_fail_reason,fail_reason,blanked
+TRD-201340,missing_fail_reason,fail_reason,blanked
+TRD-202303,missing_fail_reason,fail_reason,blanked
+TRD-203285,missing_fail_reason,fail_reason,blanked
+TRD-201588,missing_fail_reason,fail_reason,blanked
+TRD-202981,missing_fail_reason,fail_reason,blanked
+TRD-203099,missing_fail_reason,fail_reason,blanked
+TRD-202104,missing_fail_reason,fail_reason,blanked
+TRD-203601,missing_fail_reason,fail_reason,blanked
+TRD-202636,missing_fail_reason,fail_reason,blanked
+TRD-200989,missing_fail_reason,fail_reason,blanked
+TRD-200256,missing_fail_reason,fail_reason,blanked
+TRD-202225,missing_fail_reason,fail_reason,blanked
+TRD-201847,missing_fail_reason,fail_reason,blanked
+TRD-203773,missing_fail_reason,fail_reason,blanked
+TRD-201826,missing_fail_reason,fail_reason,blanked
+TRD-201182,missing_fail_reason,fail_reason,blanked
+TRD-201245,missing_fail_reason,fail_reason,blanked
+TRD-201256,missing_fail_reason,fail_reason,blanked
+TRD-200475,missing_fail_reason,fail_reason,blanked
+TRD-201582,missing_fail_reason,fail_reason,blanked
+TRD-203321,missing_fail_reason,fail_reason,blanked
+TRD-202622,missing_fail_reason,fail_reason,blanked
+TRD-202025,missing_fail_reason,fail_reason,blanked
+TRD-201237,missing_fail_reason,fail_reason,blanked
+TRD-200165,missing_fail_reason,fail_reason,blanked
+TRD-202191,missing_fail_reason,fail_reason,blanked
+TRD-202971,missing_fail_reason,fail_reason,blanked
+TRD-200699,missing_fail_reason,fail_reason,blanked
+TRD-203631,missing_fail_reason,fail_reason,blanked
+TRD-203250,missing_fail_reason,fail_reason,blanked
+TRD-202589,missing_fail_reason,fail_reason,blanked
+TRD-203429,missing_fail_reason,fail_reason,blanked
+TRD-200822,missing_fail_reason,fail_reason,blanked
+TRD-203137,missing_fail_reason,fail_reason,blanked
+TRD-203604,missing_fail_reason,fail_reason,blanked
+TRD-202913,missing_fail_reason,fail_reason,blanked
+TRD-201547,missing_fail_reason,fail_reason,blanked
+TRD-201426,missing_fail_reason,fail_reason,blanked
+TRD-200159,missing_fail_reason,fail_reason,blanked
+TRD-201362,missing_fail_reason,fail_reason,blanked
+TRD-200048,missing_fail_reason,fail_reason,blanked
+TRD-201537,missing_fail_reason,fail_reason,blanked
+TRD-200337,missing_fail_reason,fail_reason,blanked
+TRD-202404,missing_fail_reason,fail_reason,blanked
+TRD-200071,missing_fail_reason,fail_reason,blanked
+TRD-203809,missing_fail_reason,fail_reason,blanked
+TRD-201867,missing_fail_reason,fail_reason,blanked
+TRD-200808,missing_fail_reason,fail_reason,blanked
+TRD-203232,missing_fail_reason,fail_reason,blanked
+TRD-203309,missing_fail_reason,fail_reason,blanked
+TRD-201428,missing_fail_reason,fail_reason,blanked
+TRD-200356,missing_fail_reason,fail_reason,blanked
+TRD-201007,missing_fail_reason,fail_reason,blanked
+TRD-201523,missing_fail_reason,fail_reason,blanked
+TRD-202093,missing_fail_reason,fail_reason,blanked
+TRD-201714,missing_fail_reason,fail_reason,blanked
+TRD-202325,missing_fail_reason,fail_reason,blanked
+TRD-203709,bad_quantity,quantity,-100
+TRD-202801,bad_quantity,quantity,0
+TRD-203578,bad_quantity,quantity,0
+TRD-201675,bad_price,price,-12.5
+TRD-203778,bad_quantity,quantity,0
+TRD-200447,bad_price,price,0
+TRD-201194,bad_quantity,quantity,0
+TRD-203512,bad_quantity,quantity,0
+TRD-203953,bad_price,price,0
+TRD-201245,bad_price,price,-12.5
+TRD-201229,bad_price,price,0
+TRD-202445,bad_quantity,quantity,-100
+TRD-200134,bad_quantity,quantity,-100
+TRD-202861,bad_quantity,quantity,0
+TRD-202622,bad_price,price,-12.5
+TRD-201376,bad_quantity,quantity,-100
+TRD-203779,bad_price,price,-12.5
+TRD-203247,bad_price,price,0
+TRD-200159,bad_price,price,0
+TRD-201750,bad_price,price,-12.5
+TRD-201188,bad_quantity,quantity,0
+TRD-200639,bad_price,price,-12.5
+TRD-203206,bad_quantity,quantity,0
+TRD-202487,bad_price,price,0
+TRD-201832,bad_quantity,quantity,0
+TRD-200709,duplicate_trade_id,trade_id,second booking of same id
+TRD-200317,duplicate_trade_id,trade_id,second booking of same id
+TRD-201862,duplicate_trade_id,trade_id,second booking of same id
+TRD-202158,duplicate_trade_id,trade_id,second booking of same id
+TRD-203065,duplicate_trade_id,trade_id,second booking of same id
+TRD-203421,duplicate_trade_id,trade_id,second booking of same id
+TRD-200188,duplicate_trade_id,trade_id,second booking of same id
+TRD-200648,duplicate_trade_id,trade_id,second booking of same id
+TRD-201441,duplicate_trade_id,trade_id,second booking of same id
+TRD-200133,duplicate_trade_id,trade_id,second booking of same id
+TRD-200704,duplicate_trade_id,trade_id,second booking of same id
+TRD-201978,duplicate_trade_id,trade_id,second booking of same id
+TRD-203563,duplicate_trade_id,trade_id,second booking of same id
+TRD-201333,duplicate_trade_id,trade_id,second booking of same id
+TRD-203801,duplicate_trade_id,trade_id,second booking of same id
