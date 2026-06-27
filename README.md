@@ -52,7 +52,7 @@ else to a person with a recommended action; and keep an audit trail on all of it
 - **~27%** of all touched trades cleared with **zero human effort**; the rest
   routed with a recommended action.
 
-Run `python src/validate.py` to reproduce the recall table.
+Run `python validate.py` to reproduce the recall table.
 
 ---
 
@@ -60,20 +60,20 @@ Run `python src/validate.py` to reproduce the recall table.
 
 ```bash
 # no third-party dependencies — Python 3.9+ standard library only
-python src/generate_exceptions.py          # inject controlled, labeled defects
-python src/post_trade_engine.py            # run the engine
-python src/validate.py                     # check detections vs ground truth
+python generate_exceptions.py          # inject controlled, labeled defects
+python post_trade_engine.py            # run the engine
+python validate.py                     # check detections vs ground truth
 ```
 
 Optional flags:
 
 ```bash
-python src/post_trade_engine.py --input data/trades_dirty.csv --asof 2026-06-19 --outdir output
+python post_trade_engine.py --input trades_dirty.csv --asof 2026-06-19
 ```
 
 ---
 
-## Outputs (`output/`)
+## Outputs
 
 | File | Contents |
 |------|----------|
@@ -99,19 +99,15 @@ python src/post_trade_engine.py --input data/trades_dirty.csv --asof 2026-06-19 
 
 ---
 
-## Project layout
+## Files
 
-```
-post-trade-automation/
-├── data/
-│   ├── trades_raw.csv          # clean synthetic blotter (4,000 trades, 4 products)
-│   ├── trades_dirty.csv        # raw + injected defects (engine input)
-│   └── injected_truth.csv      # ground-truth labels for validation
-├── src/
-│   ├── generate_exceptions.py  # injects controlled, labeled defects
-│   ├── post_trade_engine.py    # the engine (three-tier processor + audit log)
-│   └── validate.py             # recall vs ground truth
-└── output/                     # engine outputs
-```
+| File | Purpose |
+|------|---------|
+| `generate_exceptions.py` | Injects controlled, labeled defects into the clean blotter |
+| `post_trade_engine.py` | The engine — three-tier processor + audit log |
+| `validate.py` | Recall vs ground truth |
+| `trades_raw.csv` | Clean synthetic blotter (4,000 trades, 4 products) |
+| `trades_dirty.csv` | Raw + injected defects (engine input) |
+| `injected_truth.csv` | Ground-truth labels for validation |
 
 *Data is fully synthetic. No real trades, counterparties, or PII.*
